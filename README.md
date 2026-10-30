@@ -22,23 +22,23 @@ My blog is bilingual. Every post is available in English and in Portuguese.
 
 ## 🧠 What I'm interested in
 
-- **Operating systems**: kernels, Linux, and how the system works under the userland
-- **Compilers & language runtimes**: how source code turns into something a machine runs
-- **Open source history & culture**: GNU, Linux, free software and the people behind them
-- **Security**: understanding exploits by reproducing them
-- **Software & its users**: what software is turning into, and what it should be
+- **Offensive security & exploit analysis**: taking real exploits apart and reproducing them to understand exactly why they work
+- **System & application security**: how attackers abuse trust boundaries, misconfigurations and the tools developers rely on every day
+- **Operating systems**: Linux and Unix-like systems, the kernel, processes, permissions and everything under the userland
+- **Infrastructure & networking**: how servers, networks, containers and virtualization fit together, and how to harden them
+- **Open source history & culture**: GNU, Linux, free software and the people and decisions behind them
 
 <p>
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnu" alt="GNU" title="GNU" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" title="Arch Linux" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/c" alt="C" title="C" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/llvm" alt="LLVM" title="LLVM" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/forgejo" alt="Forgejo" title="Forgejo" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opensourceinitiative" alt="Open Source" title="Open Source" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/astro" alt="Astro" title="Astro" height="40" />
+  <img src="https://cdn.simpleicons.org/linux" alt="Operating systems" title="Operating systems" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash" alt="The terminal" title="The terminal" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnu" alt="Free software" title="Free software" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opensourceinitiative" alt="Open source" title="Open source" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Offensive security" title="Offensive security" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hackthebox" alt="Hacking & CTFs" title="Hacking & CTFs" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/torproject" alt="Privacy & anonymity" title="Privacy & anonymity" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnuprivacyguard" alt="Cryptography" title="Cryptography" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/letsencrypt" alt="Encryption & TLS" title="Encryption & TLS" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" alt="Infrastructure & containers" title="Infrastructure & containers" height="40" />
 </p>
 
 ## ✍️ Latest blog posts
