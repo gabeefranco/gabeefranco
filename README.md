@@ -18,8 +18,6 @@ I care about computer science as a field, not just as a set of tools for shippin
 
 I'm also interested in the history of the open source movement: the people, the arguments and the decisions that shaped the software we all rely on. Knowing where a tool came from usually explains a lot about how and why it works the way it does today.
 
-My blog is bilingual. Every post is available in English and in Portuguese.
-
 ## 🧠 What I'm interested in
 
 - **Offensive security & exploit analysis**: taking real exploits apart and reproducing them to understand exactly why they work
