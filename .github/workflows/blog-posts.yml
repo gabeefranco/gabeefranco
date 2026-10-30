@@ -20,7 +20,7 @@ jobs:
           feed_list: "https://gabeefran.co/feed.xml"
           max_post_count: 3
           sort_by: date
-          template: "- [$title]($url) ($date)$newline"
+          template: "$newline- [$title]($url) ($date)"
           date_format: "mmm dd, yyyy"
           commit_message: "docs: update latest blog posts"
           committer_username: "github-actions[bot]"

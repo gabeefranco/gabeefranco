@@ -41,10 +41,10 @@ I'm also interested in the history of the open source movement: the people, the 
 
 ## ✍️ Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->- [I&#39;ve Been Using Linux Since I Was 10: Here&#39;s What Nobody Tells You](https://gabeefran.co/en/posts/using-linux-since-i-was-10-what-nobody-tells-you/) (Oct 06, 2026)
+<!-- BLOG-POST-LIST:START -->
+- [I&#39;ve Been Using Linux Since I Was 10: Here&#39;s What Nobody Tells You](https://gabeefran.co/en/posts/using-linux-since-i-was-10-what-nobody-tells-you/) (Oct 06, 2026)
 - [Understanding Plugin4Shell: An Exploit That Uses a Simple Git Trick to Fool AI Coding Agents](https://gabeefran.co/en/posts/understanding-plugin4shell-git-trick-ai-coding-agents/) (Sep 28, 2026)
-- [This blog&#39;s Hello World &lpar;or whatever you want to call this site&rpar;](https://gabeefran.co/en/posts/hello-world/) (Sep 22, 2026)
-<!-- BLOG-POST-LIST:END -->
+- [This blog&#39;s Hello World &lpar;or whatever you want to call this site&rpar;](https://gabeefran.co/en/posts/hello-world/) (Sep 22, 2026)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on gabeefran.co](https://gabeefran.co/en/)
 
